@@ -12,7 +12,7 @@ function showFact1() {
 }
 
 function showFact2() {
-	display.innerHTML = "Fact: Scotland has 421 words for \"snow\". Some examples include <em>sneesl</em> (to start raining or snowing), <em>feefle</em> (to swirl), and <em>flinkdrinkin</em> (a light snow).<br><br><img src=\"images/snow.jpg\" alt=\"snow\">";
+	display.innerHTML = "Scotland has 421 words for \"snow\". Some examples include <em>sneesl</em> (to start raining or snowing), <em>feefle</em> (to swirl), and <em>flinkdrinkin</em> (a light snow).<br><br><img src=\"images/snow.jpg\" alt=\"snow\">";
 }
 
 function showFact3() {
