@@ -1,11 +1,11 @@
 #main {
 	background-color: PaleTurquoise;
 	width: 600px;
-	height: 400px;
+	height: 750px;
 	border: 6px dashed MediumTurquoise;
 	color: Teal;
 	display: grid;
-	grid-template: 1fr 5fr / 1fr;
+	grid-template: 1fr .75fr 5fr / 1fr;
 }
 
 form {
