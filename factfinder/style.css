@@ -36,6 +36,11 @@ body {
 	background-image: url(images/background.jpeg);
 }
 
+img{
+	width: 400px;
+
+}
+
 #main > div {
 	color: LightSeaGreen;
 	font-size: 20px;
